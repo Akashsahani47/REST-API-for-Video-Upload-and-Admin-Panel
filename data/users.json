@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1746747334753",
+    "username": "UserArtist1",
+    "email": "UserArtist@gmail.com",
+    "password": "$2b$10$V8C4PrH5LB12RGtmohj.iOIsoTkyYaB1JvtsCbP5HJyP50mpkJKwO",
+    "role": "Artist"
+  },
+  {
+    "id": "1746747514835",
+    "username": "UserAdmit",
+    "email": "UserAdmit@gmail.com",
+    "password": "$2b$10$ZG3zEjMaswcvN.4b47trDO7kF7PdLcJtidozWwAZQFR8tzkGNOGVm",
+    "role": "Admin"
+  }
+]

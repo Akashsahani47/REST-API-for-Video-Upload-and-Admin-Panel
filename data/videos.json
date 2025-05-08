@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1746747447882",
+    "title": "Testing2",
+    "description": "Testing the routes that working properly or not",
+    "category": "Education",
+    "genre": "Tutorial",
+    "version": "v1.0",
+    "videoURL": "https://res.cloudinary.com/dkx8pymhu/video/upload/v1746747442/jyqk3ktuuozafjj6wtro.mp4",
+    "thumbnailURL": "https://res.cloudinary.com/dkx8pymhu/image/upload/v1746747447/q1gdvmi3ffrurnrdj1hd.png",
+    "artistId": "1746747334753",
+    "status": "Approved"
+  },
+  {
+    "id": "1746747499067",
+    "title": "Testing1",
+    "description": "Testing the routes that working properly or not",
+    "category": "Education",
+    "genre": "Tutorial",
+    "version": "v1.0",
+    "videoURL": "https://res.cloudinary.com/dkx8pymhu/video/upload/v1746747494/t5taqunv5rp7ccagg7uq.mp4",
+    "thumbnailURL": "https://res.cloudinary.com/dkx8pymhu/image/upload/v1746747498/fdgibgcshk4vjbik9e9d.png",
+    "artistId": "1746747334753",
+    "status": "Rejected"
+  }
+]
